@@ -7,6 +7,4 @@
 #git chat 
 #git 
 my reset branch 1
-my reset branch 2 
-my reset branch 3
-my reset branch 4
+my reset branch 2
