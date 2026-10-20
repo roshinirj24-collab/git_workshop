@@ -8,4 +8,3 @@
 #git 
 my reset branch 1
 my reset branch 2
-my reset branch 3
