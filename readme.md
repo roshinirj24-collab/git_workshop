@@ -5,4 +5,8 @@
 #git commit read me 
 #git flow chart 
 #git chat 
-#git diagram
+#git 
+my reset branch 1
+my reset branch 2 
+my reset branch 3
+my reset branch 4
